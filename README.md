@@ -7,6 +7,7 @@ Tuberchive is a website to view privated/deleted videos from YouTube channels vi
 - Embeddable video on site
 ## Search
 - Search based on keywords in title/channel/video
+- Channel lookup (if available)
 - Auto tag search
 ## Archival Requests
 If you would like to request any modifications to these archives, email us at <a href="mailto:tuberchive@gmail.com">tuberchive@gmail.com</a> by using any one of the email methods below:
